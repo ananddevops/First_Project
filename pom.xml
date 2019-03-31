@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.0.118:8081/repository/My2ndNexusReposRelease/</url>
+            <url>http://192.168.0.101:8081/repository/My2ndNexusReposRelease/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.0.118:8081/repository/MyFirstNexusRepos/</url>
+            <url>http://192.168.0.101:8081/repository/MyFirstNexusRepos/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
